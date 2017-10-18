@@ -42,7 +42,7 @@ class FormController extends BaseController
     public function listar_datos()
     {
 
-      $acceso = Form::where('fecha_caminata','2017-10-15')->whereYear('created_at', '=', date('Y'))->get();
+      $acceso = Form::where('fecha_caminata','2017-10-22')->whereYear('created_at', '=', date('Y'))->get();
       //$acceso = Form::whereYear('created_at', '=', date('Y'))->get(); 
 
       $tabla='<table id="lista">

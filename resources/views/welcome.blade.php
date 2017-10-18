@@ -20,7 +20,7 @@
 
                     <div class="freebirdFormviewerViewHeaderTitleRow">
 
-                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1"><h3>CAMINATA FAMILIAR - HUMEDAL CORDOBA Domingo 15 de octubre de 2017</h3></div>
+                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1"><h3>CAMINATA FAMILIAR<br> PARQUE ECOLÓGICO DISTRITAL DE HUMEDAL SANTA MARÍA DEL LAGO<br> Domingo 22 de octubre de 2017</h3></div>
 
                     </div>
 <br>
@@ -32,21 +32,21 @@
 
                                 <li class="elmnt-one">                                 
 
-                                        <div class="wrap"><img src="public/Img/cordoba.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/lago.jpg"  height="400">
 
                                         </div>                                   
                                 </li>
 
                                <li class="elmnt-two">
                                     
-                                        <div class="wrap"><img src="public/Img/cordoba1.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/lago1.jpg"  height="400">
 
                                         </div>                                 
                                 </li>
 
                                  <li class="elmnt-three">
                                     
-                                        <div class="wrap"><img src="public/Img/cordoba2.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/lago2.jpg"  height="400">
 
                                         </div>                                 
                                 </li>
@@ -76,23 +76,24 @@
 
                         <h3>Ubicación</h3>
 
-                        <p align="justify" style="font-size: 11pt; line-height: 25px">Su localización estratégica y de fácil acceso, a cinco minutos de las estaciones de Transmilenio Shaio y Humedal Córdoba, lo ubican como uno de los humedales más visitados de Bogotá. Cuenta con tres sectores, el primero Ubicado de la Calle 127 hacia el norte colinda con los barrios Mónaco, Prado Veraniego sur y el Canódromo, es el tercio más pequeño y menos visitado.  <br> Sector dos ubicado entre la Av. Córdoba y la Av. Suba colinda con los barrios Batán, Potosí, Puente Largo, Santa Rosa y una serie de conjuntos residenciales como Parques de Córdoba y Solis del Restrepo. Recientemente se realizaron obras en este sector, senderos, miradores y puente que permiten mayor comodidad para los visitantes. <br>Adicional se le adecuaron siete islas pequeñas, en las que se sembraron varias especies de juncos y especies arbóreas con el fin de restaurar la vegetación que sirve de alimento y refugio para la fauna del sitio. Sector tres es la parte baja del humedal, La extensión de este sector es 21.4 hectáreas Se extiende entre las Avenidas Suba y Boyacá. Colinda con los barrios Pontevedra, San Nicolás, Julio Flórez y Niza sur.</p>
+                        <p align="justify" style="font-size: 11pt; line-height: 25px">El humedal se encuentra ubicado en la localidad de Engativá, en el barrio del mismo nombre (Santa María del Lago) limita al oriente con la Avenida Boyacá, al norte con la Calle 80 y el barrio Minuto de Dios; al occidente con la Carrera 76, y los barrios Tabora y La Granja.<br>
+                        Es posible observar tinguas de pico amarillo y pico rojo, cucarachero de pantano y patos zambullidores. Además aloja patos canadienses, que migran durante el invierno desde el norte del continente americano. ​ <br>
+                        Entre la flora resaltan los bosquecillos de sauces y alisos, lentejas, buchón, juncos y sombrillitas de agua. Además de una mezcla de acacias, eucaliptos, arrayanes y cerezos. Además vemos el abutilon rosado, naranja.</p>
                        
                         <h3>Descripción del recorrido </h3>
 
-                        <p align="justify" style="font-size: 11pt; line-height: 25px">El Humedal Córdoba es un ecosistema hermoso y agradable para caminar. Recorrer el humedal ahora resulta más cómodo para sus visitantes, gracias a unos senderos peatonales, hechos de madera, que permiten realizar caminatas seguras, así como la adecuación de unos miradores y un puente peatonal sobre el canal Molinos, para contemplar el ecosistema y las aves que llegan al lugar. La ruta inicia en la entrada del segundo sector donde el guía del IDRD dará las indicaciones y se iniciara la caminata y allí mismo terminara.</p>
+                        <p align="justify" style="font-size: 11pt; line-height: 25px">El recorrido da inicio en la portería principal, el guía de caminatas del IDRD dará las recomendaciones propias del recorrido y necesarias para su ejecucion dando inicio a la caminata.<br>
+                        Se recorren sus senderos señalizados realizando un proceso de interpretación ambiental describiendo la flora y fauna más representativa y generando espacios pedagógicos de dialogo en torno al agua, los ecosistemas de humedal y en general al ecosistema presente dentro de la ciudad de Bogotá.</p>
 
-                        <!--<h3>Durante el recorrido se visitaran los siguientes aspectos:</h3>
+                        <h3>Durante el recorrido se visitaran los siguientes espacios:</h3>
                         <ul class="ul_inicio">
                             <font style="font-size: 11pt; line-height: 25px;">
-                            <li>Parte del camino Real que conduce al páramo </li>
-                            <li>Bosque encantado </li>
-                            <li>Rio Fucha</li>
-                            <li>Sector La María</li>
-                            <li>Bosque abierto de pinos</li>
-                            <li>Unión de las Quebradas Palo Blanco y La Osa </li>
+                            <li>Senderos zona Norte </li>
+                            <li>Observatorio de aves </li>
+                            <li>Plazoleta de la Tingua – Mirador del Lago</li>
+                            <li>Teatrino</li>
                             </font>
-                        </ul>-->
+                        </ul>
                         <br>
 
                         <font size="3"><center><table width="1000">
@@ -111,7 +112,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>AV SUBA CALLE 116 ENTRADA PRINCIPAL FRENTE A LA ESTACIÓN DE TRASMILENIO SHAIO.<br><br>Barrio: PUENTE LARGO</p>
+                                            <p>Portería Cra 73 No. 77-01 </p>
 
                                         </td>
 
@@ -127,7 +128,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Domingo 15 de octubre de 2017</p>
+                                            <p>Domingo 22 de octubre de 2017</p>
 
                                         </td>
 
@@ -175,7 +176,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>2 - 60 años</p>
+                                            <p><strong>¡APTA PARA TODA LA FAMILIA!</strong></p>
 
                                         </td>
 
@@ -191,7 +192,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>BAJO</p>
+                                            <p>Suave – Familiar</p>
 
                                         </td>
 
@@ -206,7 +207,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>14°C </p>
+                                            <p>Entre 9° a 18°C  </p>
 
                                         </td>
 
@@ -221,7 +222,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>2.600. a 2.650 m.s.n.m</p>
+                                            <p>2.600 m.s.n.m</p>
 
                                         </td>
 
@@ -230,13 +231,13 @@
 
                                         <td width="281" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Duración</p>
+                                            <p>Como Llegar</p>
 
                                         </td>
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>3 horas aproximadamente</p>
+                                            <p><strong>Transmilenio:</strong> Av Calle 80 - Estación Minuto de Dios <br>Transporte por la Av Boyaca </p>
 
                                         </td>
 
@@ -244,6 +245,26 @@
                        
 
                         </table></center></font>
+
+                        <br>
+                        <h3>Actividades No Permitidas:</h3>
+
+                        <ul class="ul_inicio">
+
+                            <font  style="font-size: 11pt; line-height: 25px">
+
+                                <li>Dañar o romper la vegetación existente.</li>
+                            
+                                <li>Transitar las orillas verdes y las orillas del lago.</li>
+
+                                <li>Ingresar al cuerpo de agua (nadar o navegar).</li>
+
+                                <li>Realizar picnic, fogatas o preparación de comidas al aire libre.</li>
+
+                                <li>Ingresar radios, grabadoras, megáfonos, pitos o elementos que produzcan ruidos que interfieran con la tranquilidad del Parque.</li>
+
+                            </font>
+
 
                         <h3>Recomendaciones</h3>
 
@@ -267,11 +288,12 @@
 
                                 <li>No llevar mascotas </li>
 
-                                <li>Caminata apta para mayores de 2 años.</li>
+                                <li>Caminata apta para toda la familia</li>
+
+                                <li>Abstenerse de participar, personas que tengan problemas de salud</li>
 
                                 <li><ins>Abstenerse de asistir si no se encuentra inscrito</ins></li>
 
-                                <li>Llevar impermeable en caso de lluvia</li>
                             </font>
 
                             <br>
